@@ -1,57 +1,34 @@
-# Bank-Loan-Analysis
+# Bank Loan Analysis
 
-## 📌 Overview  
-This project demonstrates a complete end-to-end **data analytics workflow** in the **Banking & Financial Services** domain.  
-Using **38,000+ loan records across 24 attributes**, the analysis uncovers key insights into loan applications, repayments, credit risk, and customer segments.  
+## Overview
 
-The project leverages **Power BI, SQL, Tableau, and Excel** to build interactive dashboards, perform data cleaning & modeling, and generate actionable business intelligence.  
+Developed an end-to-end data analytics project to analyze loan applications, repayments, customer segments, and credit risk using 38K+ loan records across 24 attributes. Built interactive dashboards and KPI reports to support data-driven decision-making in the banking domain.
 
----
+## Tools & Technologies
 
-## 🛠 Tools & Technologies  
-- **SQL (MSSQL / RDBMS)** – Data import, schema design, querying  
-- **Power BI** – KPI dashboards, drill-downs, performance reports  
-- **Tableau** – Geospatial visualizations, trend analysis, interactive dashboards  
-- **Excel** – Data cleaning 
+* SQL Server
+* Power BI
+* Tableau
+* Microsoft Excel
 
----
+## Key Features
 
-## 🔑 Features  
-- Import, clean, and process raw loan data for analytics  
-- Build **interactive dashboards** to analyze:  
-  - Loan applications (month-over-month trends)  
-  - Funded vs. repaid loan amounts  
-  - Loan status breakdown (good vs. bad loans)  
-  - Debt-to-Income (DTI) ratios  
-  - Interest rate averages & trends  
-  - Customer segmentation (region, grade, term, purpose, employment)  
-- Drill-down capabilities by **state, grade, employee length, purpose, home ownership**  
-- Visualize regional performance, portfolio quality, and risk distribution  
+* Cleaned and transformed raw loan datasets using SQL and Excel.
+* Built interactive Power BI dashboards to track loan applications, funded amounts, repayments, and portfolio performance.
+* Performed customer segmentation based on grade, purpose, employment length, and home ownership.
+* Analyzed Debt-to-Income (DTI) ratios, interest rates, and loan repayment trends.
+* Created Tableau visualizations to identify regional patterns and risk distribution.
+* Designed drill-down reports for state-wise, grade-wise, and purpose-wise analysis.
 
----
+## Business Insights
 
-## 📊 Workflow  
-1. **Data Preparation**  
-   - Imported CSV data into SQL Server  
-   - Cleaned missing values, optimized data types, and built relational schema  
+* Identified high-performing and high-risk customer segments.
+* Analyzed loan repayment behavior and portfolio quality trends.
+* Generated insights on loan approval patterns and regional performance.
+* Enabled data-driven recommendations for credit risk assessment.
 
-2. **Data Modeling**  
-   - Designed tables & keys for customer, loan, and repayment records  
-   - Created calculated fields & measures for KPIs  
+## Results
 
-3. **Analytics & Visualization**  
-   - Developed KPI dashboards in **Power BI, Tableau, Excel**  
-   - Built trend charts, DTI analysis, repayment breakdowns, and customer profiles  
-
-4. **Business Insights**  
-   - Identified loan origination & repayment patterns  
-   - Highlighted **high-risk credit segments**  
-   - Provided customer-level insights for **portfolio quality improvement**
-
----
-
-## 📈 Key Results  
-- Boosted reporting efficiency by **30%** with automated dashboards  
-- Improved accuracy of credit risk insights by **25%** after SQL-based data cleaning  
-- Enhanced portfolio quality assessment by **15%** through segmentation analysis  
-
+* Improved reporting efficiency through automated dashboards.
+* Enhanced visibility into loan portfolio performance and customer behavior.
+* Delivered actionable insights for credit risk and lending strategy analysis.
